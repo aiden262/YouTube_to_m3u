@@ -1,0 +1,130 @@
+~~ DO NOT EDIT THE FIRST 2 LINES
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+
+公视新闻 | 台湾 |  |
+https://www.youtube.com/live/quwqlazU-c8
+
+台视新闻 | 台湾 |  |
+https://www.youtube.com/live/xL0ch83RAK8
+
+寰宇新闻 | 台湾 |  |
+https://www.youtube.com/live/6IquAgfvYmc
+
+镜新闻 | 台湾 |  |
+https://www.youtube.com/live/5n0y6b0Q25o
+
+TVBS新闻 | 台湾 |  |
+https://www.youtube.com/live/m_dhMSvUCIc
+
+三立新闻 | 台湾 |  |
+https://www.youtube.com/live/oZdzzvxTfUY
+
+民视新闻 | 台湾 |  |
+https://www.youtube.com/live/ylYJSBUgaMA
+
+东森新闻 | 台湾 |  |
+https://www.youtube.com/live/2dfAzcDf8Zg
+
+东森财经 | 台湾 |  |
+https://www.youtube.com/@57ETFN/live
+
+大爱一台 | 台湾 |  |
+https://www.youtube.com/@DaAiVideo/live
+
+测试 | 台湾 |  |
+https://www.youtube.com/watch?v=m_XhhG9E2tQ
+
+ABC News Australia | 英语 |  |
+https://www.youtube.com/watch?v=vOTiJkg1voo
+
+Sky News | 英语 |  |
+https://www.youtube.com/watch?v=w9uJg68CV4g
+
+GBNews | 英语 |  |
+https://www.youtube.com/channel/UC0vn8ISa4LKMunLbzaXLnOQ/live
+
+DW News | 英语 |  |
+https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg/live
+
+Al Jazeera English | 英语 |  |
+https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg/live
+
+Euronews English | 英语 |  |
+https://www.youtube.com/channel/UCSrZ3UV4jOidv8ppoVuvW9Q/live
+
+News 12 New York | 英语 |  |
+https://www.youtube.com/channel/UCFhbonoFqxg2b9FMRzYAwog/live
+
+NASA - 太空实时 | 看世界 |  |
+https://www.youtube.com/@SpaceVideosHD/live
+
+挪威 - 铁路机车视角 | 看世界 |  |
+https://www.youtube.com/@RailCowGirl/live
+
+日本 - 东京步行 | 看世界 |  |
+https://www.youtube.com/@JAPAN_4K/live
+
+台湾 - 台北象山 | 看世界 |  |
+https://www.youtube.com/live/z_fY1pj1VBw
+
+台湾 - 碧山巌開漳聖王廟 | 看世界 |  |
+https://www.youtube.com/live/uvwfYzwY8tg
+
+台湾 - 高雄壽山情人觀景台 | 看世界 |  |
+https://www.youtube.com/live/C03Itx8iSC0
+
+台湾 - 台中望高寮 | 看世界 |  |
+https://www.youtube.com/live/lhXXhDyjFtI
+
+台湾 - 台東多良車站 | 看世界 |  |
+https://www.youtube.com/live/UCG1aXVO8H8
+
+台湾 - 台東杉原灣 | 看世界 |  |
+https://www.youtube.com/live/VqS_Y8ZCj6M
+
+台湾 - 台中高美濕地 | 看世界 |  |
+https://www.youtube.com/live/fjhg3gAnMFg
+
+台湾 - 阿里山二延平步道 | 看世界 |  |
+https://www.youtube.com/live/j2L_559nCjc
+
+台湾 - 阿里山太平雲梯 | 看世界 |  |
+https://www.youtube.com/live/dY2cRNr5Buw
+
+台湾 - 阿里山奮起湖 | 看世界 |  |
+https://www.youtube.com/live/jXcy8dmGYqg
+
+台湾 - 金门建功屿 | 看世界 |  |
+https://www.youtube.com/live/uh_yNAE01w8
+
+台湾 - 東海岸三仙台 | 看世界 |  |
+https://www.youtube.com/live/dQ7Sd6PGLdA
+
+美国 - 佛罗里达Deerfield Beach | 看世界 |  |
+https://www.youtube.com/live/Lic2fD18wnw
+
+希腊 - 罗得岛Rodos Palladium Beach | 看世界 |  |
+https://www.youtube.com/watch?v=drhmo4XSVYA
+
+罗马尼亚 - Michael Weiss Street | 看世界 |  |
+https://www.youtube.com/watch?v=G05wmWFDtSo
+
+罗马尼亚 - Bran Castle | 看世界 |  |
+https://www.youtube.com/watch?v=8hgQsI1CfsY
+
+罗马尼亚 - Sanctuarul de ursi Libearty Zarnesti | 看世界 |  |
+https://www.youtube.com/watch?v=V3aTpIxIGDg
+
+罗马尼亚 - Vaslui  | 看世界 |  |
+https://www.youtube.com/watch?v=4igmjwa7ONE
+
+罗马尼亚 - 巴莱亚湖山屋  | 看世界 |  |
+https://www.youtube.com/watch?v=87D-GzRNOq4
+
+意大利 - 威尼斯  | 看世界 |  |
+https://www.youtube.com/watch?v=ph1vpnYIxJk
+
+欧洲 - 滑雪胜地  | 看世界 |  |
+https://www.youtube.com/live/QXyhVPh1s7Y
+
